@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14135" systemVersion="17G65" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Epic" representedClassName="Epic" parentEntity="Resort" syncable="YES"/>
+    <entity name="Ikon" representedClassName="Ikon" parentEntity="Resort" syncable="YES"/>
+    <entity name="Resort" representedClassName="Resort" syncable="YES">
+        <attribute name="airport" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="daysToPayBack" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="imageLogo" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="imageTrailMap" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="passType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="region" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trueSnowFall" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="verticalDrop" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Resort" positionX="-63" positionY="-18" width="128" height="195"/>
+        <element name="Epic" positionX="-234" positionY="54" width="128" height="43"/>
+        <element name="Ikon" positionX="115" positionY="54" width="128" height="43"/>
+    </elements>
+</model>
