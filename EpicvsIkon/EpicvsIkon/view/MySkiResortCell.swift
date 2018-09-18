@@ -24,6 +24,15 @@ class MySkiResortCell: UITableViewCell {
         
     }
 
-    
-
+    func configureCell(resort: Resort) {
+        resortLabel.text = resort.name
+        passType.text = resort.passType
+        trueSnowLabel.text = String(resort.trueSnowFall)
+        daysToPaybackLabel.text = String(resort.daysToPayBack)
+        verticalDropLabel.text = String(resort.verticalDrop)
+        
+        if let imageData = resort.imageLogo as Data? {
+            resortImageView.image = UIImage(data: imageData)
+        }
+    }
 }
