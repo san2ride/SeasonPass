@@ -17,15 +17,15 @@ extension Resort {
         return NSFetchRequest<Resort>(entityName: "Resort")
     }
 
-    @NSManaged public var airport: Int16
-    @NSManaged public var daysToPayBack: Int16
+    @NSManaged public var airport: Double
+    @NSManaged public var daysToPayBack: Double
     @NSManaged public var imageLogo: NSData?
     @NSManaged public var name: String?
     @NSManaged public var passType: String?
     @NSManaged public var price: Double
     @NSManaged public var region: String?
     @NSManaged public var imageTrailMap: NSData?
-    @NSManaged public var trueSnowFall: Int16
-    @NSManaged public var verticalDrop: Int16
+    @NSManaged public var trueSnowFall: Double
+    @NSManaged public var verticalDrop: Double
 
 }
