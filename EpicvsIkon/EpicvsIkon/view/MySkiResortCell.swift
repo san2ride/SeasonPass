@@ -10,15 +10,20 @@ import UIKit
 
 class MySkiResortCell: UITableViewCell {
 
+    @IBOutlet weak var resortImageView: UIImageView!
+    @IBOutlet weak var resortLabel: UILabel!
+    @IBOutlet weak var passType: UILabel!
+    @IBOutlet weak var trueSnowLabel: UILabel!
+    @IBOutlet weak var daysToPaybackLabel: UILabel!
+    @IBOutlet weak var verticalDropLabel: UILabel!
+    
+    
+    
     override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
+        
     }
 
-    override func setSelected(_ selected: Bool, animated: Bool) {
-        super.setSelected(selected, animated: animated)
-
-        // Configure the view for the selected state
-    }
+    
 
 }
