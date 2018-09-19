@@ -62,6 +62,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 let resortData = json as? [String: AnyObject],
                 let name = resortData["name"] as? String,
                 let region = resortData["region"] as? String,
+                let passType = resortData["passType"] as? String,
                 let price = resortData["price"],
                 let trueSnowfall = resortData["trueSnowfall"],
                 let daysToPayBack = resortData["daysToPayBack"],
@@ -72,6 +73,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             let resort = Resort(context: moc)
             resort.name = name
             resort.region = region
+            resort.passType = passType
             resort.price = price as! Double
             resort.trueSnowFall = trueSnowfall as! Double
             resort.daysToPayBack = daysToPayBack as! Double

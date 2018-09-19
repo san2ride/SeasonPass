@@ -1,4 +1,5 @@
 {
+
    "resort": [{
              "name": "Alta",
              "region": "Rockies",
@@ -9,9 +10,7 @@
              "airport": 45,
              "image": "Alta.jpg",
              "trailMapImage": "alta_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Snowbird",
              "region": "Rockies",
@@ -22,9 +21,7 @@
              "airport": 43,
              "image": "Snowbird.jpg",
              "trailMapImage": "snowbird_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Mammoth",
              "region": "West",
@@ -35,9 +32,7 @@
              "airport": 195,
              "image": "Mammoth.jpg",
              "trailMapImage": "mammoth_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Aspen Snowmass",
              "region": "Rockies",
@@ -48,9 +43,7 @@
              "airport": 20,
              "image": "AspenSnowmas.jpg",
              "trailMapImage": "aspen_snowmass_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Jackson Hole",
              "region": "Rockies",
@@ -61,9 +54,7 @@
              "airport": 34,
              "image": "JacksonHole.jpg",
              "trailMapImage": "2jackson_hole_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Revelstoke",
              "region": "Canada",
@@ -74,9 +65,7 @@
              "airport": 165,
              "image": "Revelstoke.jpg",
              "trailMapImage": "revelstoke_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Sunshine Village",
              "region": "Canada",
@@ -87,9 +76,7 @@
              "airport": 96,
              "image": "SunshineVillage.jpg",
              "trailMapImage": "banff_sunshine_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Aspen Highlands",
              "region": "Rockies",
@@ -100,9 +87,7 @@
              "airport": 13,
              "image": "AspenSnowmas.jpg",
              "trailMapImage": "aspen_highlands_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Alpine Meadows",
              "region": "West",
@@ -113,9 +98,7 @@
              "airport": 50,
              "image": "AlpineMeadows.jpg",
              "trailMapImage": "alpinevalley_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Winter Park",
              "region": "Rockies",
@@ -126,9 +109,7 @@
              "airport": 99,
              "image": "WinterPark.jpg",
              "trailMapImage": "winterpark_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Steamboat",
              "region": "Rockies",
@@ -139,9 +120,7 @@
              "airport": 187,
              "image": "Steamboat.jpg",
              "trailMapImage": "2steamboat_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Copper Mountain",
              "region": "Rockies",
@@ -152,9 +131,7 @@
              "airport": 101,
              "image": "CopperMountain.jpg",
              "trailMapImage": "copper_mtn_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Deer Valley",
              "region": "Rockies",
@@ -165,9 +142,7 @@
              "airport": 45,
              "image": "DeerValley.jpg",
              "trailMapImage": "deervalley_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Aspen Ajax",
              "region": "Rockies",
@@ -178,9 +153,7 @@
              "airport": 12,
              "image": "AspenSnowmas.jpg",
              "trailMapImage": "aspen_mountain_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Eldora",
              "region": "Rockies",
@@ -191,9 +164,7 @@
              "airport": 85,
              "image": "Eldora.jpg",
              "trailMapImage": "eldora_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Squaw Valley",
              "region": "West",
@@ -204,9 +175,7 @@
              "airport": 52,
              "image": "SquawValley.jpg",
              "trailMapImage": "squawvalley_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "June Mountain",
              "region": "West",
@@ -217,9 +186,7 @@
              "airport": 173,
              "image": "JuneMountain.jpg",
              "trailMapImage": "june_mtn_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Aspen Buttemilk",
              "region": "Rockies",
@@ -230,9 +197,7 @@
              "airport": 7,
              "image": "AspenSnowmas.jpg",
              "trailMapImage": "buttermilk_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Lake Louise",
              "region": "Canada",
@@ -243,9 +208,7 @@
              "airport": 121,
              "image": "LakeLouise.jpg",
              "trailMapImage": "lake_louise_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Killington",
              "region": "East",
@@ -256,9 +219,7 @@
              "airport": 106,
              "image": "Killington.jpg",
              "trailMapImage": "killington_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Big Bear",
              "region": "West",
@@ -269,9 +230,7 @@
              "airport": 136,
              "image": "BigBear.jpg",
              "trailMapImage": "bigbear_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Blue Mountain",
              "region": "Canada",
@@ -282,9 +241,7 @@
              "airport": 107,
              "image": "BlueMountainVillage.jpg",
              "trailMapImage": "blue_mountain_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Sunday River",
              "region": "East",
@@ -295,9 +252,7 @@
              "airport": 107,
              "image": "SundayRiver.jpg",
              "trailMapImage": "sunday_river_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Sugarloaf",
              "region": "East",
@@ -308,9 +263,7 @@
              "airport": 147,
              "image": "SugarLoaf.jpg",
              "trailMapImage": "sugarloaf_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Mont Tremblant",
              "region": "Canada",
@@ -321,9 +274,7 @@
              "airport": "N/A",
              "image": "Tremblant.jpg",
              "trailMapImage": "tremblant_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Stratton",
              "region": "East",
@@ -334,9 +285,7 @@
              "airport": 96,
              "image": "Stratton.jpg",
              "trailMapImage": "stratton_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Snowshoe Mountain",
              "region": "East",
@@ -347,9 +296,7 @@
              "airport": 187,
              "image": "Snowshoe.jpg",
              "trailMapImage": "snowshoe_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Loon Mountain",
              "region": "East",
@@ -360,9 +307,7 @@
              "airport": 129,
              "image": "Loon.jpg",
              "trailMapImage": "loon_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Big Sky Montana",
              "region": "Rockies",
@@ -373,9 +318,7 @@
              "airport": 74,
              "image": "BigSkyMontana.jpg",
              "trailMapImage": "bigsky_montana_trail_map.jpg",
-             "category": {
              "passType": "Ikon"
-             }
              }, {
              "name": "Afton Alps",
              "region": "Mid West",
@@ -386,9 +329,7 @@
              "airport": 36,
              "image": "AftonAlps.jpg",
              "trailMapImage": "afton_alps_trail_map.jpg",
-             "category": {
-             "passType": "Epic"
-             }
+             "passType": "Ikon"
              }, {
              "name": "Kirkwood",
              "region": "West",
@@ -399,9 +340,7 @@
              "airport": 94,
              "image": "Kirkwood.jpg",
              "trailMapImage": "kirkwood_trail_map.jpg",
-             "category": {
-             "passType": "Epic"
-             }
+             "passType": "Ikon"
              }, {
              "name": "Vail",
              "region": "Rockies",
@@ -412,9 +351,7 @@
              "airport": 121,
              "image": "Vail.jpg",
              "trailMapImage": "vail_trail_map.jpg",
-             "category": {
-             "passType": "Epic"
-             }
+             "passType": "Ikon"
              }, {
              "name": "Arapahoe Basin",
              "region": "Rockies",
@@ -425,9 +362,7 @@
              "airport": 94,
              "image": "56.jpg",
              "trailMapImage": "55.jpg",
-             "category": {
-             "passType": "Epic"
-             }
+             "passType": "Ikon"
              }, {
              "name": "Beaver Creek",
              "region": "Rockies",
@@ -438,9 +373,7 @@
              "airport": 132,
              "image": "BeaverCreek.jpg",
              "trailMapImage": "beaver_creek_trail_map.jpg",
-             "category": {
-             "passType": "Epic"
-             }
+             "passType": "Ikon"
              }, {
              "name": "Whistler Blackcomb",
              "region": "Canada",
@@ -451,9 +384,7 @@
              "airport": "140",
              "image": "WhistlerBlackcomb.jpg",
              "trailMapImage": "whistler_blackcomb_trail_map.jpg",
-             "category": {
              "passType": "Epic"
-             }
              }, {
              "name": "Telluride",
              "region": "Rockies",
@@ -464,9 +395,7 @@
              "airport": 81,
              "image": "Telluride.jpg",
              "trailMapImage": "telluride_trail_map.jpg",
-             "category": {
              "passType": "Epic"
-             }
              }, {
              "name": "Breckenridge",
              "region": "Rockies",
@@ -477,9 +406,7 @@
              "airport": 111,
              "image": "Breckenridge.jpg",
              "trailMapImage": "breck_trail_map.jpg",
-             "category": {
              "passType": "Epic"
-             }
              }, {
              "name": "Park City",
              "region": "Rockies",
@@ -487,12 +414,10 @@
              "trueSnowfall": 290,
              "daysToPayBack": 7.4,
              "verticalDrop": 3100,
-             "airport": 40,             "passType": "EPIC",
+             "airport": 40,
              "image": "ParkCity.jpg",
              "trailMapImage": "parkcity_trail_map.jpg",
-             "category": {
              "passType": "Epic"
-             }
              }, {
              "name": "Keystone",
              "region": "Rockies",
@@ -503,9 +428,7 @@
              "airport": 102,
              "image": "Keystone.jpg",
              "trailMapImage": "keystone_trail_map.jpg",
-             "category": {
              "passType": "Epic"
-             }
              }, {
              "name": "Heavenly",
              "region": "West",
@@ -516,9 +439,7 @@
              "airport": 73,
              "image": "Heavenly.jpg",
              "trailMapImage": "heavenly_trail_map.jpg",
-             "category": {
              "passType": "Epic"
-             }
              }, {
              "name": "Northstar",
              "region": "West",
@@ -529,9 +450,7 @@
              "airport": 46,
              "image": "Northstar.jpg",
              "trailMapImage": "northstar_trail_map.jpg",
-             "category": {
              "passType": "Epic"
-             }
              }, {
              "name": "Stowe",
              "region": "East",
@@ -542,8 +461,6 @@
              "airport": 54,
              "image": "Stowe.jpg",
              "trailMapImage": "stowe_trial_map.jpg",
-             "category": {
              "passType": "Epic"
-             }
              }]
 }
