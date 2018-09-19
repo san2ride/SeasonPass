@@ -33,6 +33,8 @@ class MySkiResortCell: UITableViewCell {
         
         if let imageData = resort.imageLogo as Data? {
             resortImageView.image = UIImage(data: imageData)
+            resortImageView.layer.borderWidth = 0.5
+            resortImageView.layer.cornerRadius = 4
         }
     }
 }

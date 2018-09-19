@@ -75,10 +75,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             resort.region = region
             resort.passType = passType
             resort.price = price as! Double
-            resort.trueSnowFall = trueSnowfall as! Double
-            resort.daysToPayBack = daysToPayBack as! Double
-            resort.verticalDrop = verticalDrop as! Double
-            resort.airport = airport as! Double
+            resort.trueSnowFall = trueSnowfall.int16Value
+            resort.daysToPayBack = daysToPayBack.int16Value
+            resort.verticalDrop = verticalDrop.int16Value
+            resort.airport = airport.int16Value
             
             if  let imageName = resortData["image"] as? String,
                 let image = UIImage(named: imageName),

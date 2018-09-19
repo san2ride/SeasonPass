@@ -102,6 +102,7 @@
 		AD730D99214FAAE00097F292 /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD730D98214FAAE00097F292 /* CoreDataStack.swift */; };
 		AD730D9B214FADFF0097F292 /* ResortRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD730D9A214FADFF0097F292 /* ResortRating.swift */; };
 		ADA3D13D2150FAFC002E1A8B /* ResortService.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA3D13C2150FAFC002E1A8B /* ResortService.swift */; };
+		ADB9BD8B21523ED5006CDCB5 /* Double+extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB9BD8A21523ED5006CDCB5 /* Double+extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -202,6 +203,7 @@
 		AD730D98214FAAE00097F292 /* CoreDataStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
 		AD730D9A214FADFF0097F292 /* ResortRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortRating.swift; sourceTree = "<group>"; };
 		ADA3D13C2150FAFC002E1A8B /* ResortService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResortService.swift; sourceTree = "<group>"; };
+		ADB9BD8A21523ED5006CDCB5 /* Double+extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -234,6 +236,7 @@
 		AD730CCE214FA33C0097F292 /* EpicvsIkon */ = {
 			isa = PBXGroup;
 			children = (
+				ADB9BD8921523EA4006CDCB5 /* helper */,
 				ADA3D13E2150FB0A002E1A8B /* service */,
 				AD730CF1214FA6670097F292 /* entity */,
 				AD730CF7214FA9210097F292 /* images */,
@@ -389,6 +392,14 @@
 				ADA3D13C2150FAFC002E1A8B /* ResortService.swift */,
 			);
 			path = service;
+			sourceTree = "<group>";
+		};
+		ADB9BD8921523EA4006CDCB5 /* helper */ = {
+			isa = PBXGroup;
+			children = (
+				ADB9BD8A21523ED5006CDCB5 /* Double+extension.swift */,
+			);
+			path = helper;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -547,6 +558,7 @@
 				AD730CEF214FA6090097F292 /* Epic+CoreDataProperties.swift in Sources */,
 				AD730CEB214FA6090097F292 /* Resort+CoreDataProperties.swift in Sources */,
 				AD730CEC214FA6090097F292 /* Ikon+CoreDataClass.swift in Sources */,
+				ADB9BD8B21523ED5006CDCB5 /* Double+extension.swift in Sources */,
 				AD730CED214FA6090097F292 /* Ikon+CoreDataProperties.swift in Sources */,
 				AD730D99214FAAE00097F292 /* CoreDataStack.swift in Sources */,
 				AD730CF6214FA8DC0097F292 /* MySkiResortController.swift in Sources */,
